@@ -4,17 +4,17 @@
 
 ![隐形人(YinXingRen)](https://i.eoht.net/airport/yinxingren_logo.webp "隐形人(YinXingRen)")
 
-隐形人(YinXingRen) 以 **纯专线 + VLESS 协议**为主要特点，套餐从轻量年付延伸到大流量与定制方案。找日常备用梯子，可以先看每月 80GB 的星耀风暴；需要持续观影、远程办公或使用 AI 工具，则可比较白银纪元至钻石穹顶的流量档位，把预算用在适合自己的套餐上。
-
 > [!NOTE]
 > **30 秒看懂隐形人(YinXingRen)**
 >
-> - **年付入门**：星耀风暴提供 80GB/月，¥109/年，折合约 ¥9.08/月；短期使用可选白银纪元，144GB、¥24/月。
-> - **线路与场景**：服务介绍列有纯专线、VLESS 协议与港、台、日、新、美等 60+ 节点，支持 Netflix、Disney+、ChatGPT 等服务。
-> - **支付与订阅**：支持支付宝、微信和 USDT；需要导入 Clash、Shadowrocket 等客户端时，**通用订阅链接请联系客服获取**。
+> [访问官网](https://eoht.net/serve/airport/yinxingren) · [查看套餐价格](#yinxingren-vpn-plans) · [查看测速参考](#yinxingren-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
-> [查看套餐价格](#yinxingren-vpn-plans) · [查看测速参考](#yinxingren-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> - **入门方案**：星耀风暴 ¥109/年、80GB/月，流量按月重置；短期使用可选白银纪元，¥24/月、144GB/月。
+> - **线路与场景**：服务介绍主打纯专线与 VLESS 协议，列有多地区节点及流媒体、AI 支持；可先月付核对常用节点与本地运营商表现。
+> - **订阅使用**：可将通用订阅导入 Clash、Shadowrocket 等兼容客户端；先核对所用系统与客户端，再按对应教程导入适配链接。
 >
+
+隐形人(YinXingRen) 以 **纯专线 + VLESS 协议**为主要特点，套餐从轻量年付延伸到大流量与定制方案。找日常备用梯子，可以先看每月 80GB 的星耀风暴；需要持续观影、远程办公或使用 AI 工具，则可比较白银纪元至钻石穹顶的流量档位，把预算用在适合自己的套餐上。
 
 <a id="yinxingren-official-website"></a>
 
